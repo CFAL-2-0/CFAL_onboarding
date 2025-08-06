@@ -7,6 +7,7 @@ Doing the onboarding in order will make for a better experience, but is not requ
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Important downloads](#important-downloads)
+  - [Getting a Vega account (ERAU HPC)](#getting-a-vega-account-erau-hpc)
   - [Using Teams](#using-teams)
 
 # Introduction
@@ -15,6 +16,7 @@ In the Computational Fluids and Aerodynamics Laboratory, we leverage cutting-edg
 
 # Getting Started
 Here, we will go over a few items that are required for the rest of the onboarding.
+
 ## Important downloads
 There are a few pieces of software the CFAL members use on a day-to-day basis.
 
@@ -23,4 +25,15 @@ There are a few pieces of software the CFAL members use on a day-to-day basis.
 * [MobaXTerm](https://mobaxterm.mobatek.net/download.html) A powerful remote access tool, typically used for SSH connections but can be used for remote desktop connections as well.
 * [WinSCP](https://winscp.net/eng/download.php) WinSCP (Windows SCP) is a file transfer software. Makes it easy to transfer a large number of files between computers.
 
+## Getting a Vega account (ERAU HPC)
+Request a Vega account [here](https://myerauedu.sharepoint.com/sites/IT/SitePages/research-support.aspx?web=1), it will submit a support ticket on your behalf to the Linux/HPC staff.
+
 ## Using Teams 
+CFAL uses Microsoft Teams to communicate and store files (usually documents, PowerPoints, and simulation files). There are a couple of things you should do to set yourself up in Teams.
+
+1. First of all, make sure you are a member of the CFAL 2.0 team.
+2. In the "Research" channel, under the files tab, make a folder for yourself. This is where your weekly update slides will live. It is important that your weekly update slides are in a shared space so PIs can access your work whenever.
+3. Copy the PowerPoint template from General/Files into your Research folder.
+4. It is useful to have Teams files within your file system. The easiest way to do this is to have OneDrive connected to your OS and, in Research/files, click the "Add shortcut to OneDrive" button. You'll see a shortcut that looks like "CFAL 2.0 - Research" in your OneDrive home directory.
+
+
