@@ -25,6 +25,9 @@ There are a few pieces of software the CFAL members use on a day-to-day basis.
 * [MobaXTerm](https://mobaxterm.mobatek.net/download.html) A powerful remote access tool, typically used for SSH connections but can be used for remote desktop connections as well.
 * [WinSCP](https://winscp.net/eng/download.php) WinSCP (Windows SCP) is a file transfer software. Makes it easy to transfer a large number of files between computers.
 
+Here is a PowerShell script that automates much of the software installing:  
+[Run the install script](./scripts/install_apps.ps1)
+
 ## Getting a Vega account (ERAU HPC)
 Request a Vega account [here](https://myerauedu.sharepoint.com/sites/IT/SitePages/research-support.aspx?web=1), it will submit a support ticket on your behalf to the Linux/HPC staff.
 
